@@ -1,4 +1,4 @@
-# task_2
+# Dating App
 
 A new Flutter project.
 Main purpose of this app is to show screen swiping...
